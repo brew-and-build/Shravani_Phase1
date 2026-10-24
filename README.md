@@ -23,3 +23,21 @@ https://github.com/brew-and-build/brew-and-build/tree/main/skills/sun-devil-free
 4. It texts you the top three, each with a source link. If you picked a daily time, it repeats this every day.
 
 It never buys or signs up for anything for you, and it needs no sign-in beyond what Cubbie already has.
+
+---
+
+**Sun Devil Rides** is a Cubbie Skill that finds the cheapest way to get somewhere around ASU: free shuttles, Orbit and the Sky Train first, then light rail and buses, then Uber, Lyft and Waymo split with friends, plus current promo codes. It also handles airport runs, trips home for breaks and "is the U-Pass worth it?"
+
+### Install
+
+https://github.com/brew-and-build/brew-and-build/tree/main/skills/sun-devil-rides
+
+### Try it
+
+- "cheapest way to the airport at 5am Friday"
+- "how do I get to Downtown Phoenix campus for free?"
+- "4 of us going to Scottsdale tonight, cheapest way?"
+- "any Lyft promo codes?"
+- "is the U-Pass worth it?"
+
+It never requests, books or pays for a ride, and never enters a promo code for you.
