@@ -18,7 +18,7 @@ Check memory for the student's saved freebie preferences. If there are none, ask
 
 Remember all answers. If they want a daily text, create a daily scheduled check-in at that time that runs "Find freebies" below and texts the results. Confirm in one line, for example: "Done. I'll text you freebies every day at 5 pm 💸"
 
-Then run "Find freebies" right away, so the student sees something useful in the first minute.
+Then run "Find freebies" right away, without asking for confirmation, so the student sees something useful in the first minute.
 
 ## 2. Find freebies
 
@@ -37,12 +37,18 @@ Open and read the actual page for every candidate before you include it. Keep an
 
 ## 3. Send the results
 
-Send the top 3 items. Send up to 5 more only if the student asks for more. Format each item as its own short message: an emoji and what it is, then when and where, then the source link on its own line.
+Send the top 3 items. Send up to 5 more only if the student asks for more. Each item is its own message, at most 2 short lines, then the link:
+
+1. An emoji and what it is, in 8 words or fewer. Include the time if there is one.
+2. Where it is.
+3. The source link on its own line.
+
+Add a catch only if it changes whether the student would go, in 6 words or fewer, at the end of the second line (for example "needs ASU ID" or "free with purchase"). Leave it out otherwise. Never explain how you verified a source.
 
 Example:
 
-🍕 Free pizza at an engineering club meetup
-Today 6 to 7 pm, Memorial Union
+🍕 Free pizza, club meetup, 6 pm
+Memorial Union, needs ASU ID
 
 (link to the event page)
 
